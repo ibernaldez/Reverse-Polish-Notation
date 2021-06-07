@@ -19,8 +19,11 @@ JUNE 6th, 2021
 
 RPN_testfunctions.py
 -> Does more than previous two! Wahoooo!
+
   -> First Method: Using cmnd line, one item added to the stack a time, then calculated
+  
   -> Second Method: Using cmnd line, add whole stack to calculator
+  
   -> Third Method: Using cat text.txt | python RPN_testfunctions.py -> Text file of stacks in RPN (added example!)
 
 SOURCES:
