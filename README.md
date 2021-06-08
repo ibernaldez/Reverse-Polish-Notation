@@ -1,5 +1,6 @@
 # Reverse-Polish-Notation
 Python implementation of RPN
+CURRENT BUGS: STACK ONLY ACCEPTS SINGLE DIGITS
 
 ___________________________________
 
@@ -25,6 +26,14 @@ RPN_testfunctions.py
   -> Second Method: Using cmnd line, add whole stack to calculator
   
   -> Third Method: Using cat text.txt | python RPN_testfunctions.py -> Text file of stacks in RPN (added example!)
+ 
+ ______________________________________
+
+JUNE 8th, 2021
+- STILL WORK IN PROGRESS
+
+RPN_testfunctions.py
+-> Cleaned
 
 SOURCES:
 http://www-stone.ch.cam.ac.uk/documentation/rrf/rpn.html
